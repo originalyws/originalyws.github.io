@@ -20,17 +20,17 @@ http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43028/
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43094/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台5" group-title="港澳及国外",湖南娱乐台 
 http://tvbox.netsite.cc/proxy/884645401/884645401.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台6" group-title="港澳及国外",湖南娱乐台 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台6" group-title="港澳及国外",湖南娱乐台  
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台7" group-title="港澳及国外",湖南娱乐台
 http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台8" group-title="港澳及国外",湖南娱乐台
 http://api2.52tb.xyz/info?id=563&token=20230218htjgzi
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv5hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="湖南爱晚" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",湖南爱晚
+http://64.140.167.170:8080/live/fjydcctv5p/hls.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+ 
+http://113.128.226.58:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 tvg-id="2025" tvg-name="湖南爱晚" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",湖南爱晚 
 http://tvbox.netsite.cc/proxy/1916495164/1916495164.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="湖南爱晚" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",湖南爱晚
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
