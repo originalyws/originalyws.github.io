@@ -1,35 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5 
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5  
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6  
-#EXTINF：-1 tvg-id=“7” tvg-name=“CCTV6” tvg-logo=“http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png” group-title=“央视”，CCTV6    
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6        
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1  
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台" group-title="港澳及国外",湖南娱乐台 
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台" group-title="港澳及国外",湖南娱乐台  
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台" group-title="港澳及国外",湖南娱乐台   
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台" group-title="港澳及国外",湖南娱乐台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台" group-title="港澳及国外",湖南娱乐台 
 http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台" group-title="港澳及国外",湖南娱乐台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台" group-title="港澳及国外",湖南娱乐台 
 http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南卫视 
-http://tvbox.netsite.cc/proxy/823956387/823956387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湖南卫视频道  
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台5" group-title="港澳及国外",湖南娱乐台  
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7131" tvg-name="湖南卫视" group-title="港澳及国外",湖南卫视 
+https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7131" tvg-name="湖南卫视" group-title="港澳及国外",湖南卫视频道   
+http://110.241.190.191:808/hls/19/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台5" group-title="港澳及国外",湖南娱乐台   
 http://tvbox.netsite.cc/proxy/884645401/884645401.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台6" group-title="港澳及国外",湖南娱乐台   
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台6" group-title="港澳及国外",湖南娱乐台    
 http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台7" group-title="港澳及国外",湖南娱乐台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台7" group-title="港澳及国外",湖南娱乐台 
 http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台8" group-title="港澳及国外",湖南娱乐台
 http://api2.52tb.xyz/info?id=563&token=20230218htjgzi
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-http://64.140.167.170:8080/live/fjydcctv5p/hls.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+ 
-http://113.128.226.58:8888/newlive/live/hls/7/live.m3u8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv5hd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+  
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="湖南爱晚" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",湖南爱晚 
 http://tvbox.netsite.cc/proxy/1916495164/1916495164.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="湖南爱晚" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",湖南爱晚
@@ -38,6 +37,5 @@ http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43080/
 http://119.39.128.18:88/hls/28/index.m3u8
 #EXTINF:-1 tvg-id="6584" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",CCTV6  
 http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv6hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",CCTV-央视台球HD 
-#EXTINF：-1 tvg-id=“6584” tvg-name=“央视台球” tvg-logo=“http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png” group-title=“地方”，CCTV-央视台球HD
-http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226083/index.m3u8
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",CCTV-央视台球HD  
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226083/index.m3u8 
