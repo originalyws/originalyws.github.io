@@ -1,45 +1,98 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5   
-http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5  
-http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5 
-https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6          
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1   
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台" group-title="港澳及国外",湖南娱乐台  
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台" group-title="港澳及国外",湖南娱乐台    
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台" group-title="港澳及国外",湖南娱乐台 
-http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台" group-title="港澳及国外",湖南娱乐台  
-http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7131" tvg-name="湖南卫视" group-title="港澳及国外",湖南卫视 
-https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7131" tvg-name="湖南卫视" group-title="港澳及国外",湖南卫视频道    
-http://110.241.190.191:808/hls/19/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台5" group-title="港澳及国外",湖南娱乐台   
-http://tvbox.netsite.cc/proxy/884645401/884645401.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台6" group-title="港澳及国外",湖南娱乐台    
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43027/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台7" group-title="港澳及国外",湖南娱乐台 
-http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png" tvg-id="7139" tvg-name="湖南娱乐台8" group-title="港澳及国外",湖南娱乐台
-http://api2.52tb.xyz/info?id=563&token=20230218htjgzi
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+   
-https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+    
-http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="湖南爱晚" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",湖南爱晚 
-http://tvbox.netsite.cc/proxy/1916495164/1916495164.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="湖南爱晚" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",湖南爱晚
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43080/index.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="湖南爱晚" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",湖南爱晚
-http://119.39.128.18:88/hls/28/index.m3u8
-#EXTINF:-1 tvg-id="6584" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",CCTV6  
-http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv6hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",CCTV-央视台球HD  
-http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226083/index.m3u8 
+#EXTINF:-1,CCTV1-综合
+http://110.52.9.180:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV2-财经
+http://110.52.9.180:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV3-综艺
+http://110.52.9.180:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV4-国际
+http://110.52.9.180:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV5-体育
+http://110.52.9.180:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV6-电影
+http://110.52.9.180:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV7-军农
+http://110.52.9.180:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV8-电视剧
+http://110.52.9.180:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV9-纪录
+http://110.52.9.180:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV10-科教
+http://110.52.9.180:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV11-戏曲
+http://110.52.9.180:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV12-社会与法
+http://110.52.9.180:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV13-新闻
+http://110.52.9.180:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV14-少儿
+http://110.52.9.180:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,CCTV15-音乐
+http://110.52.9.180:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,湖南卫视
+http://110.52.9.180:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,湖南经视
+http://110.52.9.180:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,湖南都市
+http://110.52.9.180:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,湖南电视剧
+http://110.52.9.180:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,湖南电影
+http://110.52.9.180:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,金鹰卡通
+http://110.52.9.180:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,湖南娱乐
+http://110.52.9.180:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,金鹰纪实
+http://110.52.9.180:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,湖南公共
+http://110.52.9.180:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,江苏卫视
+http://110.52.9.180:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,北京卫视
+http://110.52.9.180:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,天津卫视
+http://110.52.9.180:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,深圳卫视
+http://110.52.9.180:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,湖北卫视
+http://110.52.9.180:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,山东卫视
+http://110.52.9.180:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,黑龙江卫视
+http://110.52.9.180:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,浙江卫视
+http://110.52.9.180:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,安徽卫视
+http://110.52.9.180:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,东方卫视
+http://110.52.9.180:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,江西卫视
+http://110.52.9.180:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,辽宁卫视
+http://110.52.9.180:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,东南卫视
+http://110.52.9.180:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,旅游卫视
+http://110.52.9.180:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,广东卫视
+http://110.52.9.180:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,广西卫视
+http://110.52.9.180:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,贵州卫视
+http://110.52.9.180:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,河北卫视
+http://110.52.9.180:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,河南卫视
+http://110.52.9.180:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,云南卫视
+http://110.52.9.180:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,吉林卫视
+http://110.52.9.180:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,陕西卫视
+http://110.52.9.180:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,卡酷动漫
+http://110.52.9.180:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,优漫卡通
+http://110.52.9.180:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
+
